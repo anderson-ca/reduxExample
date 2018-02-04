@@ -1,8 +1,8 @@
 export default function() {
     return [
-        {title: 'Narnia'},
-        {title: 'Harry Potter'},
-        {title: 'Java: tips and tricks'},
-        {title: 'fluent JavaScript'}
+        {title: 'Narnia', pages: 34},
+        {title: 'Harry Potter', pages: 45},
+        {title: 'Java: tips and tricks', pages:111},
+        {title: 'fluent JavaScript', pages:2}
     ];
 }
